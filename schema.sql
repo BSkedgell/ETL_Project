@@ -1,3 +1,4 @@
+CREATE DATABASE income
 
 -- Last in, first out, order matters because of foreign keys have a waterfall esq reliance structure
 DROP TABLE IF EXISTS `median_income`;
